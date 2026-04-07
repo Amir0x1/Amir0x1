@@ -50,15 +50,15 @@ Based in Israel. Shipping infra that makes DeFi usable.
 ### `> stats`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Amir0x1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e87b&icon_color=00e87b&text_color=8b949e&ring_color=00e87b" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Amir0x1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e87b&icon_color=00e87b&text_color=8b949e&ring_color=00e87b" height="180" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir0x1&theme=dark&hide_border=true&background=0d1117&stroke=00e87b&ring=00e87b&fire=00e87b&currStreakLabel=00e87b&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="180" />
   &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir0x1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e87b&text_color=8b949e&langs_count=6" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir0x1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e87b&text_color=8b949e&langs_count=6" height="180" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amir0x1&theme=github_dark" height="180" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir0x1&theme=github_dark" width="95%" />
 </div>
 
 ---
