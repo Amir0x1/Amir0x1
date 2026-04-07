@@ -42,7 +42,7 @@ Based in Israel. Shipping infra that makes DeFi usable.
 ### `> tech_stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,solana,linux,docker,grafana,redis,git&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,solana,linux,grafana,redis,git&theme=dark&perline=9" />
 </p>
 
 ---
