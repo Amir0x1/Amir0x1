@@ -52,7 +52,7 @@ Based in Israel. Shipping infra that makes DeFi usable.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir0x1&theme=dark&hide_border=true&background=0d1117&stroke=00e87b&ring=00e87b&fire=00e87b&currStreakLabel=00e87b&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amir0x1&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amir0x1&theme=github_dark&utcOffset=3" height="180" />
 </div>
 
 <br />
